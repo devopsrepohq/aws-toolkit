@@ -1,6 +1,6 @@
 # AWS Toolkit
 
-If you using vscode for developer AWS CDK. You can download the [AWS Toolkit extension](https://aws.amazon.com/visualstudiocode/) as it provide the useful feature to speed up development workflow.
+If you using vscode to develop AWS CDK. You can download the [AWS Toolkit extension](https://aws.amazon.com/visualstudiocode/) as it offer the useful feature to speed up development workflow.
 
 ## Vscode intellisense for AWS CDK
 
